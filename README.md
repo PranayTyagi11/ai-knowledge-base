@@ -8,6 +8,24 @@ The AI Knowledge Base is a full-stack web application that allows users to uploa
 
 **Live Application:** [https://ai-knowledge-base-pranay.netlify.app](https://ai-knowledge-base-pranay.netlify.app)
 
+## Application Screenshots
+
+### Document Upload Interface
+![Upload Page](./screenshots/upload.png)
+*Secure PDF upload with title validation and file processing*
+
+### Document Management
+![Documents Page](./screenshots/documents.png)
+*Document listing with download and delete functionality*
+
+### AI Chat Interface
+![Chat Interface](./screenshots/chat.png)
+*AI-powered chat with clean, modern interface*
+
+### Chat with Sources
+![Chat with Sources](./screenshots/chat2.png)
+*AI responses with source attribution and document references*
+
 ## Features
 
 - **Document Management**: Upload, view, and delete PDF documents
