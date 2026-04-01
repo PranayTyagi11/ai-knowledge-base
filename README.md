@@ -4,10 +4,6 @@
 
 The AI Knowledge Base is a full-stack web application that allows users to upload PDF documents, process them with AI, and interact with the content through an intelligent chat interface. The system uses vector embeddings and semantic search to provide accurate, context-aware responses based on the uploaded documents.
 
-## Live Demo
-
-**Live Application:** [https://ai-knowledge-base-pranay.netlify.app](https://ai-knowledge-base-pranay.netlify.app)
-
 ## Application Screenshots
 
 ### Document Upload Interface
