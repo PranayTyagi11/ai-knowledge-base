@@ -49,10 +49,3 @@ Custom PostgreSQL function for similarity matching using pgvector extension.
 
 ### File Operations
 - `GET /get-signed-url`: Generate secure file access URLs
-
-## Performance Optimizations
-
-- **Chunking Strategy**: 800-character chunks for optimal embeddings
-- **Vector Indexing**: IVFFlat index for fast similarity search
-- **Memory Management**: Streamed PDF processing
-- **Caching**: Efficient React state management
