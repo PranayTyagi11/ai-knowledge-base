@@ -34,7 +34,6 @@ The AI Knowledge Base is a full-stack web application that allows users to uploa
 
 - [Technical Details](TECHNICAL_DETAILS.md)
 - [Deployment Guide](DEPLOYMENT.md) 
-- [Security Implementation](SECURITY.md)
 
 ## Technology Stack
 
